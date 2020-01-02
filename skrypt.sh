@@ -5,7 +5,7 @@ echo_path() {
     echo "Wybrana sciezka: $path"
 }
 
-# Wybor opcji przez uzytkownika i zwrocenie jej
+# Wybor opcji przez uzytkownika
 show_choices() {
     echo -e "\n"
     echo 'MENU'
